@@ -2,7 +2,7 @@
 
 Projeto Expo criado com create-expo-app para estudar React Native.
 
-![Screenshot](./images/cell1.png)
+![Screenshot](./cell1.png)
 
 ## Como executar
 
@@ -18,3 +18,4 @@ Projeto Expo criado com create-expo-app para estudar React Native.
    npx expo start
 
    ```
+
